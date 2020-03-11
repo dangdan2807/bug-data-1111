@@ -13,3 +13,4 @@ B4 - 5 cách khác: `python /sdcard/<đường dẫn tệp>/main.py
 
 **Lưu ý:** cứ 20 giấy + 1GB.  
 
+[![Run on Repl.it](https://repl.it/badge/github/dangdan2807/bug-data-1111)](https://repl.it/github/dangdan2807/bug-data-1111)
